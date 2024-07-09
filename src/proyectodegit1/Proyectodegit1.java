@@ -10,7 +10,9 @@ public class Proyectodegit1 {
             System.out.println(i);
             
         }
-        //jhhjbhb
+        for (int i = 1; i < 5; i++) {
+            System.out.println("abchillerato");
+        }
     }
     
 }
